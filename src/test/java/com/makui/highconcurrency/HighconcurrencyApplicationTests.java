@@ -1,4 +1,4 @@
-package com.makui.concurrency;
+package com.makui.highconcurrency;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ConcurrencyApplicationTests {
+public class HighconcurrencyApplicationTests {
 
 	@Test
 	public void contextLoads() {
